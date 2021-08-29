@@ -6,6 +6,8 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results:
 
+![](https://github.com/Aitorgoyare/surfs_up/blob/main/June%20Temp.png)![](https://github.com/Aitorgoyare/surfs_up/blob/main/December%20Temp.png)
+
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
 ## Summary:
